@@ -68,7 +68,7 @@ The dataset includes daily records of confirmed cases, recoveries, and deaths al
 
 1. Clone this repository:
    ```bash
-   git clone <repo_url>
+   git clone [<repo_url>](https://github.com/tsukuyomi-0001/ML-project-2.git)
    cd covid19-death-prediction
     ```
 
